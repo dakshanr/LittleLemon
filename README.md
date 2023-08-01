@@ -1,4 +1,4 @@
-Little Lemon Portfolio Project
+## **Little Lemon Portfolio Project**
 
 Part of Meta Frontend Developer Certificate.
 Module 4 - HTML & CSS in Depth
