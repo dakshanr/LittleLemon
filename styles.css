@@ -99,9 +99,6 @@ article p {
 
 }
 
-#sec2 {
-}
-
 #sec2 > article {
 justify-content: center;    padding-right: 2px;
     padding-left: 2px;
